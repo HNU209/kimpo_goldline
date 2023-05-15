@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HNU209/kimpo_goldline/static/css/main.e6c13ad2.css",
+    "main.js": "/HNU209/kimpo_goldline/static/js/main.d418fb52.js",
+    "static/js/483.6def8f47.chunk.js": "/HNU209/kimpo_goldline/static/js/483.6def8f47.chunk.js",
+    "service-worker.js": "/HNU209/kimpo_goldline/service-worker.js",
+    "index.html": "/HNU209/kimpo_goldline/index.html",
+    "main.e6c13ad2.css.map": "/HNU209/kimpo_goldline/static/css/main.e6c13ad2.css.map",
+    "main.d418fb52.js.map": "/HNU209/kimpo_goldline/static/js/main.d418fb52.js.map",
+    "483.6def8f47.chunk.js.map": "/HNU209/kimpo_goldline/static/js/483.6def8f47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d418fb52.js"
+  ]
+}
