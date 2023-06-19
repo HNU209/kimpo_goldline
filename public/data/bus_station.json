@@ -1,0 +1,172 @@
+[
+    {
+        "bus_type": "70",
+        "start_station": "걸포마루공원",
+        "end_station": "걸포북변역.국민연금공단",
+        "start_lat": 37.632597,
+        "start_lon": 126.7035,
+        "end_lat": 37.631468,
+        "end_lon": 126.705672,
+        "direction": 1
+    },
+    {
+        "bus_type": "70",
+        "start_station": "걸포북변역.국민연금공단",
+        "end_station": "풍무역",
+        "start_lat": 37.631468,
+        "start_lon": 126.705672,
+        "end_lat": 37.612075,
+        "end_lon": 126.732771,
+        "direction": 1
+    },
+    {
+        "bus_type": "70",
+        "start_station": "풍무역",
+        "end_station": "고촌역",
+        "start_lat": 37.612075,
+        "start_lon": 126.732771,
+        "end_lat": 37.6004,
+        "end_lon": 126.770752,
+        "direction": 1
+    },
+    {
+        "bus_type": "70",
+        "start_station": "고촌역",
+        "end_station": "개화역광역환승센터",
+        "start_lat": 37.6004,
+        "start_lon": 126.770752,
+        "end_lat": 37.578385,
+        "end_lon": 126.797538,
+        "direction": 1
+    },
+    {
+        "bus_type": "70",
+        "start_station": "개화역광역환승센터",
+        "end_station": "롯데몰.김포공항역",
+        "start_lat": 37.578385,
+        "start_lon": 126.797538,
+        "end_lat": 37.56234,
+        "end_lon": 126.803093,
+        "direction": 1
+    },
+    {
+        "bus_type": "70",
+        "start_station": "롯데몰.김포공항역",
+        "end_station": "개화역광역환승센터",
+        "start_lat": 37.56234,
+        "start_lon": 126.803093,
+        "end_lat": 37.578229,
+        "end_lon": 126.79814,
+        "direction": 2
+    },
+    {
+        "bus_type": "70",
+        "start_station": "개화역광역환승센터",
+        "end_station": "고촌역",
+        "start_lat": 37.578229,
+        "start_lon": 126.79814,
+        "end_lat": 37.601408,
+        "end_lon": 126.770414,
+        "direction": 2
+    },
+    {
+        "bus_type": "70",
+        "start_station": "고촌역",
+        "end_station": "풍무역",
+        "start_lat": 37.601408,
+        "start_lon": 126.770414,
+        "end_lat": 37.611934,
+        "end_lon": 126.734239,
+        "direction": 2
+    },
+    {
+        "bus_type": "70",
+        "start_station": "풍무역",
+        "end_station": "걸포북변역.국민연금공단",
+        "start_lat": 37.611934,
+        "start_lon": 126.734239,
+        "end_lat": 37.631736,
+        "end_lon": 126.70624,
+        "direction": 2
+    },
+    {
+        "bus_type": "70A",
+        "start_station": "걸포마루공원",
+        "end_station": "걸포북변역.국민연금공단",
+        "start_lat": 37.632597,
+        "start_lon": 126.7035,
+        "end_lat": 37.631468,
+        "end_lon": 126.705672,
+        "direction": 1
+    },
+    {
+        "bus_type": "70A",
+        "start_station": "걸포북변역.국민연금공단",
+        "end_station": "풍무역",
+        "start_lat": 37.631468,
+        "start_lon": 126.705672,
+        "end_lat": 37.612075,
+        "end_lon": 126.732771,
+        "direction": 1
+    },
+    {
+        "bus_type": "70A",
+        "start_station": "풍무역",
+        "end_station": "개화역광역환승센터",
+        "start_lat": 37.612075,
+        "start_lon": 126.732771,
+        "end_lat": 37.578385,
+        "end_lon": 126.797538,
+        "direction": 1
+    },
+    {
+        "bus_type": "70A",
+        "start_station": "개화역광역환승센터",
+        "end_station": "롯데몰.김포공항역",
+        "start_lat": 37.578385,
+        "start_lon": 126.797538,
+        "end_lat": 37.56234,
+        "end_lon": 126.803093,
+        "direction": 1
+    },
+    {
+        "bus_type": "70B",
+        "start_station": "걸포마루공원",
+        "end_station": "사우역.김포고",
+        "start_lat": 37.632597,
+        "start_lon": 126.7035,
+        "end_lat": 37.621138,
+        "end_lon": 126.717114,
+        "direction": 1
+    },
+    {
+        "bus_type": "70B",
+        "start_station": "사우역.김포고",
+        "end_station": "고촌역",
+        "start_lat": 37.621138,
+        "start_lon": 126.717114,
+        "end_lat": 37.6004,
+        "end_lon": 126.770752,
+        "direction": 1
+    },
+    {
+        "bus_type": "70B",
+        "start_station": "고촌역",
+        "end_station": "개화역광역환승센터",
+        "start_lat": 37.6004,
+        "start_lon": 126.770752,
+        "end_lat": 37.578385,
+        "end_lon": 126.797538,
+        "direction": 1
+    },
+    {
+        "bus_type": "70B",
+        "start_station": "개화역광역환승센터",
+        "end_station": "롯데몰.김포공항역",
+        "start_lat": 37.578385,
+        "start_lon": 126.797538,
+        "end_lat": 37.56234,
+        "end_lon": 126.803093,
+        "direction": 1
+    }
+]
