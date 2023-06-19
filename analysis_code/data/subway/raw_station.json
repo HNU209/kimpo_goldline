@@ -1,0 +1,164 @@
+[
+    {
+        "start_station": "양촌",
+        "end_station": "구래",
+        "start_lat": 37.64177,
+        "start_lon": 126.614806,
+        "end_lat": 37.645394,
+        "end_lon": 126.628651,
+        "direction": 1
+    },
+    {
+        "start_station": "구래",
+        "end_station": "마산",
+        "start_lat": 37.645394,
+        "start_lon": 126.628651,
+        "end_lat": 37.640627,
+        "end_lon": 126.643965,
+        "direction": 1
+    },
+    {
+        "start_station": "마산",
+        "end_station": "장기",
+        "start_lat": 37.640627,
+        "start_lon": 126.643965,
+        "end_lat": 37.64409,
+        "end_lon": 126.669012,
+        "direction": 1
+    },
+    {
+        "start_station": "장기",
+        "end_station": "운양",
+        "start_lat": 37.64409,
+        "start_lon": 126.669012,
+        "end_lat": 37.653891,
+        "end_lon": 126.683808,
+        "direction": 1
+    },
+    {
+        "start_station": "운양",
+        "end_station": "걸포북변",
+        "start_lat": 37.653891,
+        "start_lon": 126.683808,
+        "end_lat": 37.631653,
+        "end_lon": 126.705764,
+        "direction": 1
+    },
+    {
+        "start_station": "걸포북변",
+        "end_station": "사우(김포시청)",
+        "start_lat": 37.631653,
+        "start_lon": 126.705764,
+        "end_lat": 37.620352,
+        "end_lon": 126.719746,
+        "direction": 1
+    },
+    {
+        "start_station": "사우(김포시청)",
+        "end_station": "풍무",
+        "start_lat": 37.620352,
+        "start_lon": 126.719746,
+        "end_lat": 37.612433,
+        "end_lon": 126.732504,
+        "direction": 1
+    },
+    {
+        "start_station": "풍무",
+        "end_station": "고촌",
+        "start_lat": 37.612433,
+        "start_lon": 126.732504,
+        "end_lat": 37.601237,
+        "end_lon": 126.770364,
+        "direction": 1
+    },
+    {
+        "start_station": "고촌",
+        "end_station": "김포공항",
+        "start_lat": 37.601237,
+        "start_lon": 126.770364,
+        "end_lat": 37.562318,
+        "end_lon": 126.802161,
+        "direction": 1
+    },
+    {
+        "start_station": "김포공항",
+        "end_station": "고촌",
+        "start_lat": 37.562318,
+        "start_lon": 126.802161,
+        "end_lat": 37.601237,
+        "end_lon": 126.770364,
+        "direction": 2
+    },
+    {
+        "start_station": "고촌",
+        "end_station": "풍무",
+        "start_lat": 37.601237,
+        "start_lon": 126.770364,
+        "end_lat": 37.612433,
+        "end_lon": 126.732504,
+        "direction": 2
+    },
+    {
+        "start_station": "풍무",
+        "end_station": "사우(김포시청)",
+        "start_lat": 37.612433,
+        "start_lon": 126.732504,
+        "end_lat": 37.620352,
+        "end_lon": 126.719746,
+        "direction": 2
+    },
+    {
+        "start_station": "사우(김포시청)",
+        "end_station": "걸포북변",
+        "start_lat": 37.620352,
+        "start_lon": 126.719746,
+        "end_lat": 37.631653,
+        "end_lon": 126.705764,
+        "direction": 2
+    },
+    {
+        "start_station": "걸포북변",
+        "end_station": "운양",
+        "start_lat": 37.631653,
+        "start_lon": 126.705764,
+        "end_lat": 37.653891,
+        "end_lon": 126.683808,
+        "direction": 2
+    },
+    {
+        "start_station": "운양",
+        "end_station": "장기",
+        "start_lat": 37.653891,
+        "start_lon": 126.683808,
+        "end_lat": 37.64409,
+        "end_lon": 126.669012,
+        "direction": 2
+    },
+    {
+        "start_station": "장기",
+        "end_station": "마산",
+        "start_lat": 37.64409,
+        "start_lon": 126.669012,
+        "end_lat": 37.640627,
+        "end_lon": 126.643965,
+        "direction": 2
+    },
+    {
+        "start_station": "마산",
+        "end_station": "구래",
+        "start_lat": 37.640627,
+        "start_lon": 126.643965,
+        "end_lat": 37.645394,
+        "end_lon": 126.628651,
+        "direction": 2
+    },
+    {
+        "start_station": "구래",
+        "end_station": "양촌",
+        "start_lat": 37.645394,
+        "start_lon": 126.628651,
+        "end_lat": 37.64177,
+        "end_lon": 126.614806,
+        "direction": 2
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "start_station": "양촌역",
+        "end_station": "더럭스나인",
+        "start_lat": 37.641973,
+        "start_lon": 126.614308,
+        "end_lat": 37.644226,
+        "end_lon": 126.618597,
+        "direction": 1
+    },
+    {
+        "start_station": "더럭스나인",
+        "end_station": "구래역",
+        "start_lat": 37.644226,
+        "start_lon": 126.618597,
+        "end_lat": 37.644496,
+        "end_lon": 126.627346,
+        "direction": 1
+    },
+    {
+        "start_station": "구래역",
+        "end_station": "디원시티",
+        "start_lat": 37.644496,
+        "start_lon": 126.627346,
+        "end_lat": 37.643415,
+        "end_lon": 126.618366,
+        "direction": 2
+    },
+    {
+        "start_station": "디원시티",
+        "end_station": "양촌역",
+        "start_lat": 37.643415,
+        "start_lon": 126.618366,
+        "end_lat": 37.641856,
+        "end_lon": 126.614282,
+        "direction": 2
+    }
+]
